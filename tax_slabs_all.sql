@@ -1,0 +1,15 @@
+INSERT INTO TaxSlabs (TaxYear, TaxType, LowerLimit, UpperLimit, TaxRate) VALUES
+(2025, 'Income', 0, 300000, 0),
+(2025, 'Income', 300001, 600000, 5),
+(2025, 'Income', 600001, 900000, 10),
+(2025, 'Income', 900001, 1200000, 15),
+(2025, 'Income', 1200001, 1500000, 20),
+(2025, 'Income', 1500001, NULL, 30),
+(2025, 'GST', 0, NULL, 18),
+(2025, 'Property', 0, 500000, 2),
+(2025, 'Property', 500001, NULL, 5),
+(2025, 'Corporate', 0, NULL, 25),
+(2025, 'SalesTax', 0, NULL, 10),
+(2025, 'ExciseTax', 0, NULL, 12),
+(2025, 'WealthTax', 0, 3000000, 0),
+(2025, 'WealthTax', 3000001, NULL, 1); 

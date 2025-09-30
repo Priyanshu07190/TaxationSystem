@@ -1,0 +1,2 @@
+INSERT INTO User (UserType, Name, Email, Phone, Address, PAN, AadhaarNumber, RegistrationDate, Role, Password)
+VALUES ('Salaried', 'Test User', 'testuser@example.com', '9999999999', 'Test Address', 'TESTP1234Q', NULL, CURDATE(), 'User', 'testpass'); 
