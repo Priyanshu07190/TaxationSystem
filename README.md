@@ -1,4 +1,4 @@
-# 🏛️ Indian Taxation System - Complete Desktop Application
+# 🏛️ Indian Taxation System
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -17,8 +17,7 @@
 ## 📋 Table of Contents
 
 - [🌟 Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [🛠️ Prerequisites](#️-prerequisites)
+- [️ Prerequisites](#️-prerequisites)
 - [⚡ Quick Setup Guide](#-quick-setup-guide)
 - [🚀 How to Run](#-how-to-run)
 - [📁 Project Structure](#-project-structure)
@@ -29,7 +28,6 @@
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
 - [❓ FAQ](#-faq)
-- [📞 Support](#-support)
 
 ---
 
@@ -66,22 +64,6 @@
 - ✅ **User Management** - View and manage all users
 - ✅ **System Analytics** - Track usage and performance
 - ✅ **Database Administration** - Complete system oversight
-
----
-
-## 📸 Screenshots
-
-> **Note**: Add screenshots here to showcase your application's interface
-
-```
-📁 screenshots/
-├── 🏠 main-dashboard.png
-├── 🧮 tax-calculator.png
-├── 📄 itr-filing.png
-├── 📚 quiz-system.png
-├── 🤖 chatbot-interface.png
-└── ⚙️ admin-panel.png
-```
 
 ---
 
@@ -448,16 +430,6 @@ We welcome contributions! Here's how you can help:
 - Test thoroughly before submitting
 - Update README for new features
 
-### 🐛 **Bug Reports**
-
-Please include:
-- Operating System
-- Java version
-- MySQL version
-- Steps to reproduce
-- Expected vs actual behavior
-- Screenshots if applicable
-
 ---
 
 ## 📝 License
@@ -510,18 +482,7 @@ A: Follow the MVC pattern, create new Frame classes, and update the database sch
 - Verify all SQL files were imported
 - Review application logs
 
----
-
-## 📞 Support
-
-### 💬 **Get Help**
-
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/YourUsername/TaxationSystem/issues)
-- 📖 **Documentation:** [Wiki](https://github.com/YourUsername/TaxationSystem/wiki)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/YourUsername/TaxationSystem/discussions)
-
-### 🙏 **Acknowledgments**
+###  **Acknowledgments**
 
 - MySQL Team for the excellent database system
 - Oracle for Java platform
@@ -533,12 +494,4 @@ A: Follow the MVC pattern, create new Frame classes, and update the database sch
 <div align="center">
   <h3>🌟 If this project helped you, please give it a star! 🌟</h3>
   <p><strong>Made with ❤️ for the developer community</strong></p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/YourUsername/TaxationSystem?style=social)](https://github.com/YourUsername/TaxationSystem/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/YourUsername/TaxationSystem?style=social)](https://github.com/YourUsername/TaxationSystem/network/members)
-  
 </div>
-
----
-
-**Last Updated:** December 2024 | **Version:** 1.0.0 | **Status:** Active Development
